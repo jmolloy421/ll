@@ -1,9 +1,12 @@
 {
   "summary": {
-    "title": "Threat Model"
+    "title": "Threat Model",
+    "description": "aksdkamdsa",
+    "owner": "me"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": ""
   }
 }
